@@ -1,0 +1,13 @@
+{
+  "author": "xxx",
+  "name": "xxx",
+  "version": "0.0.0",
+  "dependencies": {
+    "webdriverjs": "0.6.x",
+    "q": "0.8.x",
+    "selenium-inproc": "0.1.x",
+    "selenium-grid-status": "0.0.x",
+    "superagent": "0.12.x"
+  },
+  "devDependencies": {}
+}
